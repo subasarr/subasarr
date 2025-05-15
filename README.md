@@ -1,3 +1,7 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5b3f903-d460-43fb-a963-3fb86696b9c7" alt="Sude Başar Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Sude BAŞAR</h1>
 <h3 align="center"> Full Stack Developer Student | .NET Developer </h3>
 
