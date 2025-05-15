@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sude BAŞAR</h1>
-<h3 align="center">Computer Engineering Student | Future Developer 👩‍💻</h3>
+<h3 align="center">Bilge Adam Star Software Developer Development Program | Future Developer 👩‍💻</h3>
 
 📫 Reach me via: **sudebasar003@gmail.com**
 
@@ -37,7 +37,7 @@
 ---
 
 ### ✨ Little About Me
-- 👩‍🎓 Bilgisayar mühendisliği öğrencisiyim.
+- 👩‍🎓 Full Stack Developer öğrencisiyim.
 - 🧠 Yazılım geliştirme üzerine kendimi geliştiriyorum.
 - 🚀 Frontend ve backend alanlarında kendimi deniyorum.
 - 🎯 Hedefim aktif bir GitHub geliştiricisi olmak!
@@ -47,14 +47,4 @@
 > ⭐ “Kodlamak hayal gücünü somut hale getirmektir.”  
 > Daha fazla proje ile yakında daha aktif bir profil göreceksiniz!
 
----
 
-## 🔜 Ne Yapman Gerek?
-✅ Bu repo'yu oluştur  
-✅ İçine README.md dosyasını ekle (yukarıdaki kodla)  
-✅ Daha sonra projelerini yükle ve "Pinned repositories" kısmından sabitle  
-✅ Commit yapmaya devam et → GitHub grafiğin canlansın!
-
----
-
-Hazırsan seninle birlikte bunu adım adım GitHub üzerinde de kurabiliriz. Yardımcı olmamı ister misin?
