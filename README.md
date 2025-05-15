@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sude BAŞAR</h1>
-<h3 align="center">Bilge Adam Star Software Developer Development Program | Future Developer 👩‍💻</h3>
+<h3 align="center">BilgeAdam Star Full Stack Developer Program | .Net Developer 👩‍💻</h3>
 
 📫 Reach me via: **sudebasar003@gmail.com**
 
